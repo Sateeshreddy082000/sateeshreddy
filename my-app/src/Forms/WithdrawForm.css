@@ -1,0 +1,47 @@
+.withdraw {
+    display: flex;
+}
+.withdraw-img{
+    background-image: url("../images/Withdraw\ .jpg");
+    background-size: 100% 100%;
+    width: 130vh;
+    height: 90vh;
+}
+.withdraw-text{
+    border: 2px solid rgba(0, 0, 0, 0.2);
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+.withdraw-text input{
+    border: 1px solid rgb(131, 140, 239);
+    padding: 1vw 1vw;
+    border-radius: 10px;
+    width: 300px;
+    display: flex;
+    margin: 5px;
+    margin-left: 40px;
+    color: #ba1919;
+}
+.withdraw-text button{
+    border: 1px solid rgb(131, 140, 239);
+    padding: 0.8vw 1vw;
+    border-radius: 10px;
+    margin: 5px;
+    margin-left: 40px;
+}
+.withdraw-text button:hover{
+    background-color: #a4a4db;
+}
+.withdraw-text img{
+    height: 60px;
+    padding: 20px;
+}
+.withdraw-text h2{
+    color: #333366;
+    padding-left: 40px;
+}
+.withdraw-text label{
+    padding-left: 40px;
+}

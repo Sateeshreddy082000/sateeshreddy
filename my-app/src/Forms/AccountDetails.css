@@ -1,0 +1,28 @@
+.account {
+    display: flex;
+}
+
+.account-img {
+    background-image: url(../images/Account\ Details.jpg);
+    background-size: 100% 100%;
+    width: 130vh;
+    height: 90vh;
+}
+
+.account-text {
+    border: 2px solid rgba(0, 0, 0, 0.2);
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.account img {
+    height: 60px;
+    padding: 20px;
+}
+
+.account h2 {
+    color: #333366;
+    padding-left: 40px;
+}
